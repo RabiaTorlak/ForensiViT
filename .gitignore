@@ -6,6 +6,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-
-# Large model weights should be handled with Git LFS or stored outside Git.
-*.pth
